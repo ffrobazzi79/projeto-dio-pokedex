@@ -15,9 +15,9 @@ o desafio do projeto foi :
 
 ## Demonstração
 
-![Demonstração da Pokédex](./img/demo-image.png)
+![Demonstração da Pokédex](./img/img-pokedex.png)
 
-![Demonstração da Pokédex](./img/demo-image2.png)
+![Demonstração da Pokédex](./img/img-pokedex2.png)
 
 ## Tecnologias Utilizadas
 
